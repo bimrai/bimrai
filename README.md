@@ -1,4 +1,4 @@
-## Hi, I'm Bim :)
+# Hi, I'm Bim :)
 ## <br><br>- 📚 I’m currently studying BSc Computer Science<br>- 🌱 I’m currently learning iOS Development (Additional: JS/React and Arduino IoT)<br>- 🥋 Fun fact: Gold Medalist in the UTF (Universal Taekwondo Federation) ITF National Championship GB 2019 London<br>- 📫 How to reach me: @bitofbim on IG/Twitter(X) and YT: https://www.youtube.com/@bitofbim
 
 
@@ -16,5 +16,3 @@
 ![](https://github-profile-trophy.vercel.app/?username=bimrai&theme=transparent&no-frame=false&no-bg=true&margin-w=4)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-[![Bim Rai's GitHub stats](https://github-readme-stats.vercel.app/api?username=bimrai)](https://github.com/bimrai/github-readme-stats)
