@@ -1,6 +1,6 @@
 # Hi, I'm Bim :)
 
-## Studying BSc Computer Science and Specialising in iOS Development
+Studying BSc Computer Science and Specialising in iOS Development
 <br>
 I’m currently learning iOS Development (Additional: JS/React and Arduino IoT)<br>- 🥋 Fun fact: Gold Medalist in the UTF (Universal Taekwondo Federation) ITF National Championship GB 2019 London<br>- 📫 How to reach me: @bitofbim on IG/Twitter(X), links below!
 
