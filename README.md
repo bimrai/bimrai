@@ -1,5 +1,6 @@
 # Hi, I'm Bim :)
-## - 📚 Studying BSc Computer Science<br>- 🌱 I’m currently learning iOS Development (Additional: JS/React and Arduino IoT)<br>- 🥋 Fun fact: Gold Medalist in the UTF (Universal Taekwondo Federation) ITF National Championship GB 2019 London<br>- 📫 How to reach me: @bitofbim on IG/Twitter(X), links below!
+
+Studying BSc Computer Science<br> - I’m currently learning iOS Development (Additional: JS/React and Arduino IoT)<br>- 🥋 Fun fact: Gold Medalist in the UTF (Universal Taekwondo Federation) ITF National Championship GB 2019 London<br>- 📫 How to reach me: @bitofbim on IG/Twitter(X), links below!
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](http://instagram.com/bitofbim) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bimitrai/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/bitofbim) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@bitofbim)
 
