@@ -55,7 +55,7 @@
 
 <div align="center">
 
-✨ *Thanks for stopping by!* ✨  
+*Thanks for stopping by!* 
 🧠 Always curious, learning and building.
 
 </div>
