@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Bim :)
 
-🎓 BSc Computer Science student specialising in **iOS Development**  
+🎓 BSc Computer Science student specialising in **iOS** and **JavaScript** Development
 📱 Currently learning **SwiftUI**, and exploring **JS / React / Arduino IoT**  
 🥋 Fun fact: Gold Medalist — *UTF (Universal Taekwondo Federation)*  
 🏆 *ITF National Championship GB 2019, London*  
