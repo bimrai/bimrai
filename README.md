@@ -2,11 +2,12 @@
 
 # 👋 Hi, I'm Bim :)
 
-🎓 BSc Computer Science student specialising in **iOS** and **JavaScript** Development
-📱 Currently learning **SwiftUI**, and exploring **JS / React / Arduino IoT**  
+🎓 BSc Computer Science student specialising in **iOS** and **JavaScript Development**  
+📱 Currently learning **iOS Development** with **Swift**, **SwiftUI**, **UIKit**, **Core Data**, **Combine**, **Networking (REST APIs)**, **Concurrency**, and **app architecture (MVC / MVVM)** through Angela Yu’s Bootcamp  
 🥋 Fun fact: Gold Medalist — *UTF (Universal Taekwondo Federation)*  
 🏆 *ITF National Championship GB 2019, London*  
 📫 Reach me on **@bitofbim** (IG / X / YouTube), links below!
+
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](http://instagram.com/bitofbim)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bimitrai/)
@@ -46,19 +47,8 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Bim's GitHub stats](https://github-readme-stats.vercel.app/api?username=bitofbim&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bitofbim&layout=compact&theme=tokyonight)
-
-</div>
-
----
-
 ## 🚀 Currently Working On
-- Learning **SwiftUI** for iOS App Development  
+- Learning **Swift** for iOS App Development  
 - Exploring **Arduino IoT** integrations  
 - Building personal projects with **React** and **Node.js**  
 
