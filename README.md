@@ -47,9 +47,9 @@
 ---
 
 ## 🚀 Currently Working On
-- Advancing my **iOS Development** skills — building apps using **Swift**, **SwiftUI**, **UIKit**, **Core Data**, **REST APIs**, and **MVC architecture**
-- Developing and advancing **JavaScript** knowledge by building projects using **Node.js**, and **Firebase** for deployment and authentication
-- Experimenting with **Arduino IoT** projects — integrating sensors and automation
+- Advancing my **iOS Development** skills — building apps using **Swift**, **SwiftUI**, **UIKit**, **Xcode**, **Core Data**, **REST APIs**, **Auto Layout**, **Storyboards**, and **MVC architecture**, while exploring **ARKit** and **CoreML**
+- Experimenting with **Arduino IoT** projects — integrating sensors, automation, and real-world data collection
+- Strengthening my **JavaScript backend** skills — working with **Node.js**, **Express**, and **SQL databases** to build and deploy server-side applications
 
 ---
 
