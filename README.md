@@ -3,9 +3,8 @@
 # 👋 Hi, I'm Bim :)
 
 🎓 BSc Computer Science student specialising in **iOS** and **JavaScript Development**  
-📱 Currently learning **iOS Development** with **Swift**, **SwiftUI**, **UIKit**, **Core Data**, **Combine**, **Networking (REST APIs)**, **Concurrency**, and **app architecture (MVC / MVVM)** 
-🥋 Fun fact: Gold Medalist — *UTF (Universal Taekwondo Federation)*  
-🏆 *ITF National Championship GB 2019, London*  
+📱 Currently learning **iOS Development** with **Swift**, **SwiftUI**, **UIKit**, **Core Data**, **Combine**, **Networking (REST APIs)**, **Concurrency**, and **app architecture (MVC / MVVM)** and further enhancing and **Mastering** **JavaScript** concepts.
+🥋 Fun fact: Gold Medalist — *UTF (Universal Taekwondo Federation) ITF National Championship GB 2019, London*  
 📫 Reach me on **@bitofbim** (IG / X / YouTube), links below!
 
 
@@ -49,8 +48,8 @@
 
 ## 🚀 Currently Working On
 - Advancing my **iOS Development** skills — building apps using **Swift**, **SwiftUI**, **UIKit**, **Xcode**, **Core Data**, **REST APIs**, **Auto Layout**, **Storyboards**, and **MVC architecture**, while exploring **ARKit** and **CoreML**
-- Experimenting with **Arduino IoT** projects — integrating sensors, automation, and real-world data collection
 - Strengthening my **JavaScript backend** skills — working with **Node.js**, **Express**, and **SQL databases** to build and deploy server-side applications
+- Experimenting with **Arduino IoT** projects — integrating sensors, automation, and real-world data collection
 
 ---
 
