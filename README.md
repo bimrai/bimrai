@@ -3,6 +3,7 @@
 # 👋 Hi, I'm Bim :)
 
 🎓 BSc Computer Science student specialising in **JavaScript Development** and **iOS Development**
+
 📱 Currently learning **iOS Development** with **Swift**, **SwiftUI**, **UIKit**, **Core Data**, **Combine**, **Networking (REST APIs)**, **Concurrency**, and **app architecture (MVC / MVVM)** and further enhancing and **Mastering** **JavaScript** concepts.
 
 🥋 Random Fun fact: Gold Medalist — *UTF, ITF, National Championship GB 2019, London*  
