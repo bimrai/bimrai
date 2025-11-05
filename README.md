@@ -48,7 +48,7 @@
 ---
 
 ## 🚀 Currently Working On
-- Strengthening my **JavaScript**
+- Mastering **JavaScript** Techniques and Concepts - Daily JavaScript practice and uploading on javascript-practice repo 
 - Advancing my **iOS Development** skills — building apps using **Swift**, **SwiftUI**, **UIKit**, **Xcode**, **Core Data**, **REST APIs**, **Auto Layout**, **Storyboards**, and **MVC architecture**, while exploring **ARKit** and **CoreML**
 - Experimenting with **Arduino IoT** projects — integrating sensors, automation, and real-world data collection
 
