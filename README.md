@@ -5,6 +5,7 @@
 🎓 BSc Computer Science student specialising in **JavaScript** and **iOS Development**
 
 📱 Currently learning **iOS Development** with **Swift**, **SwiftUI**, **UIKit**, **Core Data**, **Combine**, **Networking (REST APIs)**, **Concurrency**, and **app architecture (MVC / MVVM)** and further enhancing and **Mastering** **JavaScript** concepts.
+
 💻 Mastering **JavaScript** **OOP**, **Asynchronous Programming**, **APIs** (**Fetch**, **WebSockets**, **Geolocation**, **Notifications**, etc.), **Scopes** and more.
 
 🥋 Random Fun fact: Gold Medalist — *UTF, ITF, National Championship GB 2019, London*  
