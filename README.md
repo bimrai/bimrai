@@ -67,19 +67,13 @@ This combo lets me work across **data ingestion → processing → serving**.
 ---
 
 ## 🚀 Currently Working On
-- Python ETL pipelines for ingest → clean → transform  
-- FastAPI microservices for small data workflows  
-- Node.js utilities for async data handling / workers  
-- Data exploration with Pandas & NumPy  
-- Automating small real-world processes (scripts, schedulers)  
+- Python fundamentals  
 
 ---
 
 ## 🎯 Next Steps
-- Airflow for pipeline orchestration  
-- Moving into cloud data (AWS Lambda, S3, DynamoDB or GCP equivalents)  
-- Data modeling + warehouse fundamentals (Star Schema, OLAP basics)  
-- Building dashboards powered by custom APIs  
+- Master Python
+- SQL 
 
 ---
 
