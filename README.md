@@ -33,9 +33,6 @@ I’m developing a hybrid skillset across **data workflows** and **modern backen
 - Node.js API development (REST, routing, middleware)  
 - Async workflows, background jobs, event-driven code  
 - Browser APIs, WebSockets, and real-time pipelines  
-- Front-end engineering for dashboards / data tools  
-
-This combo lets me work across **data ingestion → processing → serving**.
 
 ---
 
