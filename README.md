@@ -2,10 +2,13 @@
 
 # 👋 Hi, I'm Bim
 
-🎓 BSc Computer Science student focused on **Data Engineering** and **Backend Development**  
-🐍 Python-first for data pipelines, automation, and APIs  
-⚡ JavaScript developer for async backend systems, services, and full-stack tooling  
-🥋 Gold Medalist — UTF / ITF National Championship GB 2019  
+🎓 BSc Computer Science student | Interested in **Data Science / Data Engineering** & **Backend Development**
+
+🐍 Python – Data Science & Engineering | Data Analysis (Pandas, NumPy)
+
+⚡ JavaScript – Core JS, OOP, Simple Backend & API Integration
+
+🥋 Random Fact: Gold Medalist — Tae Kwon Do National Championship GB 2019
 📫 @bitofbim (IG • X • YouTube)
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](http://instagram.com/bitofbim)
@@ -18,18 +21,18 @@
 
 </div>
 
-## 🧩 Data Engineering × JavaScript Backend
+## 🧩 Data Science & Data Engineering × Backend Development
 
-I’m developing a hybrid skillset across **data workflows** and **modern backend engineering**:
+I’m currently developing a hybrid skillset across **data workflows** and **modern backend engineering**:
 
-### **Python (Data Engineering Focus)**
-- ETL/ELT pipelines  
-- Data cleaning, transformation, validation (Pandas, NumPy)  
-- Automation + scripting  
-- API services with **FastAPI**  
-- Early ML fundamentals & data preparation  
+### **Python (Data Science & Engineering Focus)**
+- Data cleaning, transformation & validation (Pandas, NumPy)
+- ETL/ELT pipelines & automation
+- API development with FastAPI
+- Data exploration & visualization (Matplotlib, Seaborn)
+- Data preparation for analysis & modeling
 
-### **JavaScript (Backend Engineering Focus)**
+### **JavaScript (Backend Development)**
 - Node.js API development (REST, routing, middleware)  
 - Async workflows, background jobs, event-driven code  
 - Browser APIs, WebSockets, and real-time pipelines  
@@ -50,7 +53,6 @@ I’m developing a hybrid skillset across **data workflows** and **modern backen
 ### **Backend & APIs**
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-404D59?style=flat)
 
 ### **Tools & Platforms**
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
@@ -60,6 +62,7 @@ I’m developing a hybrid skillset across **data workflows** and **modern backen
 
 ### **Design**
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white)
+![Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=flat&logo=adobephotoshop&logoColor=white)
 
 ---
 
@@ -70,11 +73,16 @@ I’m developing a hybrid skillset across **data workflows** and **modern backen
 
 ## 🎯 Next Steps
 - Master Python
-- SQL 
+- Learn SQL fundamentals
+- Learn data manipulation (Pandas, NumPy)
+- Learn data visualization (Matplotlib, Seaborn)
+- Build small Data Science projects
+- Learn APIs & backend with FastAPI
+- Learn ETL concepts + build simple pipelines
 
 ---
 
 <div align="center">
 
-**Building the bridge between Python data engineering and JavaScript backend systems.**  
+**Always actively learning! :)**  
 </div>
