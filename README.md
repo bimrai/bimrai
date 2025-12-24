@@ -9,13 +9,6 @@
 ⚡ JavaScript – Core JS, OOP, Simple Backend & API Integration
 
 🥋 Random Fact: Gold Medalist — Tae Kwon Do National Championship GB 2019
-📫 @bitofbim (IG • X • YouTube)
-
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](http://instagram.com/bim_rai)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bimitrai/)
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/bitofbim)
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@bitofbim)
-[![Portfolio](https://img.shields.io/badge/Portfolio-black.svg?style=flat&logo=google-chrome&logoColor=white)](https://www.bimrai.com)
 
 ---
 
