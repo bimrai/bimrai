@@ -2,9 +2,9 @@
 
 # 👋 Hi, I'm Bim
 
-🎓 BSc Computer Science student | Interested in **Data Science / Data Engineering** & **Backend Development**
+🎓 BSc Computer Science student | Interested in **Data Science / Data Analysis** & **Backend Development**
 
-🐍 Python – Data Science & Engineering | Data Analysis (Pandas, NumPy)
+🐍 Python – Data Science | Data Analysis (Pandas, NumPy) <- Main Focus
 
 ⚡ JavaScript – Core JS, OOP, Simple Backend & API Integration
 
@@ -18,17 +18,9 @@
 
 I’m currently developing a hybrid skillset across **data workflows** and **modern backend engineering**:
 
-### **Python (Data Science & Engineering Focus)**
-- Data cleaning, transformation & validation (Pandas, NumPy)
-- ETL/ELT pipelines & automation
-- API development with FastAPI
-- Data exploration & visualization (Matplotlib, Seaborn)
-- Data preparation for analysis & modeling
+### **Python (Data Science & Analyst Focus)**
 
-### **JavaScript (Backend Development)**
-- Node.js API development (REST, routing, middleware)  
-- Async workflows, background jobs, event-driven code  
-- Browser APIs, WebSockets, and real-time pipelines  
+### **JavaScript (Backend Development**
 
 ---
 
