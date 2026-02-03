@@ -20,7 +20,7 @@ I’m currently developing a hybrid skillset across **data workflows** and **mod
 
 ### **Python (Data Science & Analyst Focus)**
 
-### **JavaScript (Backend Development**
+### **JavaScript (Backend Development)**
 
 ---
 
