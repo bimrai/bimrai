@@ -8,8 +8,6 @@
 
 ⚡ JavaScript – Core JS, OOP, Simple Backend & API Integration
 
-🥋 Random Fact: Gold Medalist — Tae Kwon Do National Championship GB 2019
-
 ---
 
 </div>
@@ -52,18 +50,10 @@ I’m currently developing a hybrid skillset across **data workflows** and **mod
 ---
 
 ## 🚀 Currently Working On
-- Python fundamentals  
-
----
-
-## 🎯 Next Steps
-- Master Python
-- Learn SQL fundamentals
-- Learn data manipulation (Pandas, NumPy)
-- Learn data visualization (Matplotlib, Seaborn)
-- Build small Data Science projects
-- Learn APIs & backend with FastAPI
-- Learn ETL concepts + build simple pipelines
+- Python
+- SQL fundamentals
+- Data manipulation (Pandas, NumPy)
+- Data visualization (Matplotlib, Seaborn)
 
 ---
 
