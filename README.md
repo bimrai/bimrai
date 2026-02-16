@@ -51,9 +51,9 @@ I’m currently developing a hybrid skillset across **data workflows** and **mod
 ## 🚀 Currently Working On
 - Python
 - SQL fundamentals
+- C++ fundamentals
 - Data manipulation (Pandas, NumPy)
 - Data visualization (Matplotlib, Seaborn)
-
 ---
 
 <div align="center">
