@@ -2,61 +2,64 @@
 
 # 👋 Hi, I'm Bim
 
-🎓 BSc Computer Science student | Interested in **Data Science / Data Analysis** & **Backend Development**
+🎓 BSc Computer Science Student  
+🐍 Focused on **Python Engineering / Data Science/Analysis**
 
-🐍 Python – Data Science | Data Analysis (Pandas, NumPy) <- Main Focus
-
-⚡ JavaScript – Core JS, OOP, Simple Backend & API Integration
-
----
+Secondarily learning **C++ fundamentals**
 
 </div>
 
-## 🧩 Data Science & Data Engineering × Backend Development
+---
 
-I’m currently developing a hybrid skillset across **data workflows** and **modern backend engineering**:
+## 🎯 About Me
 
-### **Python (Data Science & Analyst Focus)**
+I am a Computer Science student building practical programming competence, primarily in Python.
 
-### **JavaScript (Backend Development)**
+My interest is in:
+
+- Python Software Engineering
+- Data Analysis workflows
+- Problem solving and computational logic
+- Entry-level fintech / technical data roles
 
 ---
 
-## ⚡ Tech Stack
+## 🧩 Technical Direction
 
-### **Core Languages**
-![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
-![SQL](https://img.shields.io/badge/SQL-025E8C.svg?style=flat&logo=postgresql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
+### Primary Focus - Python
 
-### **Data & Processing**
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+- Data processing logic  
+- Analysis workflows  
+- Backend-style scripting  
+- Numerical and structured data handling  
 
-### **Backend & APIs**
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white)
+### Secondary Focus - C++
 
-### **Tools & Platforms**
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-a08021?style=flat&logo=firebase&logoColor=ffcd34)
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=Arduino&logoColor=white)
+- Learning programming fundamentals  
+- Memory and performance concepts  
+- Low-level thinking development  
 
-### **Design**
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white)
-![Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=flat&logo=adobephotoshop&logoColor=white)
+### Current JavaScript Level
+
+- Basic working knowledge  
+- Slowly shifting focus toward Python
 
 ---
 
-## 🚀 Currently Working On
+## 🚀 Learning Focus
+
 - Python
-- SQL fundamentals
-- C++ fundamentals
-- Data manipulation (Pandas, NumPy)
-- Data visualization (Matplotlib, Seaborn)
+- SQL
+- C++ Fundamentals
+- Probability and Statistics with Python
+- Linear Algebra in Python
+- Computational Thinking
+- Basic Data Workflow Design
+
 ---
 
 <div align="center">
 
-**Always actively learning! :)**  
+**Iterative learning**
+
 </div>
