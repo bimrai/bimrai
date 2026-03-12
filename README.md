@@ -20,7 +20,6 @@ My interest is in:
 - Python Software Engineering
 - Data Analysis workflows
 - Problem solving and computational logic
-- Entry-level fintech / technical data roles
 
 ---
 
