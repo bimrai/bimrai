@@ -48,6 +48,8 @@ My interest is in:
 ## 🚀 Learning Focus
 
 - Python
+- NumPy & Pandas
+- Diving deeper to expand existing DSA knowledge (Python)
 - SQL
 - C++ Fundamentals
 - Probability and Statistics with Python
