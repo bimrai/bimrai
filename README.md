@@ -3,27 +3,28 @@
 # 👋 Hi, I'm Bim
 
 🎓 BSc Computer Science Student  
-🐍 Focused on **Python Engineering / Data Science/Analysis**
+🐍 Focused on **Python Engineering**
 
-Secondarily learning **C++ fundamentals**
+Secondarily learning **C++ fundamentals** and **Data Analysis with Python**
 
 </div>
 
 ---
 
-## 🎯 About Me
+## About Me
 
-I am a Computer Science student building practical programming competence, primarily in Python.
+I am a Computer Science student at Cardiff University, building practical programming competence, primarily in Python.
 
 My interest is in:
 
 - Python Software Engineering
+- Building reliable systems that serve purpose
 - Data Analysis workflows
 - Problem solving and computational logic
 
 ---
 
-## 🧩 Technical Direction
+## Technical Direction
 
 ### Primary Focus - Python
 
@@ -45,7 +46,7 @@ My interest is in:
 
 ---
 
-## 🚀 Learning Focus
+## Learning Focus
 
 - Python
 - NumPy & Pandas
@@ -54,7 +55,6 @@ My interest is in:
 - C++ Fundamentals
 - Probability and Statistics with Python
 - Linear Algebra in Python
-- Computational Thinking
 - Basic Data Workflow Design
 
 ---
