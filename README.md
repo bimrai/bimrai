@@ -2,10 +2,10 @@
 
 # 👋 Hi, I'm Bim
 
-🎓 BSc Computer Science Student  
-🐍 Focused on **Python Engineering**
+🎓 BSc Computer Science Student at Cardiff University
+🐍 Building practical strength in **Python Software Development**
 
-Secondarily learning **C++ fundamentals** and **Data Analysis with Python**
+Focused on creating logic-driven applications, structured code systems, and data-oriented workflows.
 
 </div>
 
@@ -13,54 +13,39 @@ Secondarily learning **C++ fundamentals** and **Data Analysis with Python**
 
 ## About Me
 
-I am a Computer Science student at Cardiff University, building practical programming competence, primarily in Python.
+I am a Computer Science student developing practical programming depth through hands-on software projects.
 
-My interest is in:
+My current work centers around:
 
-- Python Software Engineering
-- Building reliable systems that serve purpose
-- Data Analysis workflows
-- Problem solving and computational logic
+* Python application development
+* Object-oriented programming
+* Computational problem solving
+* Structured data handling
 
----
-
-## Technical Direction
-
-### Primary Focus - Python
-
-- Data processing logic  
-- Analysis workflows  
-- Backend-style scripting  
-- Numerical and structured data handling  
-
-### Secondary Focus - C++
-
-- Learning programming fundamentals  
-- Memory and performance concepts  
-- Low-level thinking development  
-
-### Current JavaScript Level
-
-- Basic working knowledge  
-- Slowly shifting focus toward Python
+I enjoy building systems step by step, refining logic, and turning concepts into working software.
 
 ---
 
-## Learning Focus
+## Current Technical Focus
 
-- Python
-- NumPy & Pandas
-- Diving deeper to expand existing DSA knowledge (Python)
-- SQL
-- C++ Fundamentals
-- Probability and Statistics with Python
-- Linear Algebra in Python
-- Basic Data Workflow Design
+* Python
+* NumPy & Pandas
+* Data Structures & Algorithms in Python
+* SQL fundamentals
+* Probability & Statistics for computing
+
+---
+
+## Supporting Foundations
+
+* C++ programming fundamentals
+* Core memory/performance understanding
+* Gradual full stack JavaScript redevelopment
 
 ---
 
 <div align="center">
 
-**Iterative learning**
+**Hands-on building • iterative improvement • long-term technical depth**
 
 </div>
